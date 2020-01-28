@@ -16,4 +16,4 @@ This assignment carries **30 points** and the marks distribution is as follows:
 
 5. Final output image saved correctly - 6 points
 
-### You get 5 attempts to complete the assignment.
+### You get 5 attempts to complete the assignment
